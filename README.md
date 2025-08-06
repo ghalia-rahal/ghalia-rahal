@@ -1,6 +1,4 @@
 ## Hello,I'm Ghalia! Welcome to my GitHub profile.  👋
-
-<!--
 **ghalia-rahal/ghalia-rahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 I'm a third-year **e-Business student** at **ESSECT Monfleury**, passionate about **new technologies** and **artificial intelligence**.
